@@ -1,4 +1,5 @@
-##HR-Analytics-Dashboard-Using-Power-BI
+# HR-Analytics-Dashboard
+
 I have created a interactive Dashboard on HR Analytics using Power BI.
 
 Objective: - By using data-driven insights, help an organization by enhancing staff performance, increasing employee retention, and lowering attrition.
