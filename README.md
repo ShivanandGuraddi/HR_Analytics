@@ -12,6 +12,7 @@ Data Processing: Loaded and applied the cleaned data into Power BI for further a
 Data Visualization: Created measures and columns using DAX functions like count, sum, and calculate to generate insights.
 
 Insights:
+
 1.The Life Sciences department experiences the highest attrition rate at 38%.
 
 2.Employees aged 26-35 and those with less than a year at the company show higher attrition rates.
