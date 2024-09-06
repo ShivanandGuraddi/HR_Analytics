@@ -7,7 +7,7 @@ This interactive HR Analytics dashboard provides data-driven insights to help or
 The dashboard offers key metrics at a departmental level (Human Resources, R&D, Sales) and tracks performance indicators such as employee count, attrition figures, attrition rate, average age, salary, and years at the company.
 
 ## Key Features:
-Data Cleaning: Cleaned irrelevant and unused data using Power Query by removing duplicates, renaming columns, and changing data types.
+**Data Cleaning:** Cleaned irrelevant and unused data using Power Query by removing duplicates, renaming columns, and changing data types.
 Data Processing: Loaded and applied the cleaned data into Power BI for further analysis.
 Data Visualization: Created measures and columns using DAX functions like count, sum, and calculate to generate insights.
 
