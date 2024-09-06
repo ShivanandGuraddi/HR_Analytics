@@ -8,8 +8,8 @@ The dashboard offers key metrics at a departmental level (Human Resources, R&D, 
 
 ## Key Features:
 **Data Cleaning:** Cleaned irrelevant and unused data using Power Query by removing duplicates, renaming columns, and changing data types.
-Data Processing: Loaded and applied the cleaned data into Power BI for further analysis.
-Data Visualization: Created measures and columns using DAX functions like count, sum, and calculate to generate insights.
+**Data Processing:** Loaded and applied the cleaned data into Power BI for further analysis.
+**Data Visualization:** Created measures and columns using DAX functions like count, sum, and calculate to generate insights.
 
 ## Insights:
 - The Life Sciences department experiences the highest attrition rate at 38%.
